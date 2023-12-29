@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\bin\Debug\float ile kdv hesap.exe.config
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\bin\Debug\float ile kdv hesap.exe
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\bin\Debug\float ile kdv hesap.pdb
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\obj\Debug\float ile kdv hesap.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\obj\Debug\float ile kdv hesap.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\obj\Debug\float ile kdv hesap.exe
+C:\Users\muham\Desktop\C# ders\float ile kdv hesap\float ile kdv hesap\obj\Debug\float ile kdv hesap.pdb

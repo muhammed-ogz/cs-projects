@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\bin\Debug\if-else-yapisi-kullanici-adi-ornek.exe.config
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\bin\Debug\if-else-yapisi-kullanici-adi-ornek.exe
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\bin\Debug\if-else-yapisi-kullanici-adi-ornek.pdb
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\obj\Debug\if-else-yapisi-kullanici-adi-ornek.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\obj\Debug\if-else-yapisi-kullanici-adi-ornek.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\obj\Debug\if-else-yapisi-kullanici-adi-ornek.exe
+C:\Users\muham\Desktop\C# ders\if-else-yapisi-kullanici-adi-ornek\obj\Debug\if-else-yapisi-kullanici-adi-ornek.pdb

@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\bin\Debug\artimetiksel operatorler.exe.config
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\bin\Debug\artimetiksel operatorler.exe
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\bin\Debug\artimetiksel operatorler.pdb
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\obj\Debug\artimetiksel operatorler.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\obj\Debug\artimetiksel operatorler.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\obj\Debug\artimetiksel operatorler.exe
+C:\Users\muham\Desktop\C# ders\artimetiksel operatorler\artimetiksel operatorler\obj\Debug\artimetiksel operatorler.pdb

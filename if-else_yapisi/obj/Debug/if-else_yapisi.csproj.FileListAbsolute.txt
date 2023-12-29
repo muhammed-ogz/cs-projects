@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\bin\Debug\if-else_yapisi.exe.config
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\bin\Debug\if-else_yapisi.exe
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\bin\Debug\if-else_yapisi.pdb
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\obj\Debug\if-else_yapisi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\obj\Debug\if-else_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\obj\Debug\if-else_yapisi.exe
+C:\Users\muham\Desktop\C# ders\if-else_yapisi\obj\Debug\if-else_yapisi.pdb

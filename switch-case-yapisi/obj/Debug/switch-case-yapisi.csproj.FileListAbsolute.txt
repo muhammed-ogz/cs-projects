@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\bin\Debug\switch-case-yapisi.exe.config
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\bin\Debug\switch-case-yapisi.exe
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\bin\Debug\switch-case-yapisi.pdb
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\obj\Debug\switch-case-yapisi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\obj\Debug\switch-case-yapisi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\obj\Debug\switch-case-yapisi.exe
+C:\Users\muham\Desktop\C# ders\switch-case-yapisi\obj\Debug\switch-case-yapisi.pdb

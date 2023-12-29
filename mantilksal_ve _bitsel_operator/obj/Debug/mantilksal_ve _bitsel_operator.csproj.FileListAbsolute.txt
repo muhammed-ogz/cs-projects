@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\bin\Debug\mantilksal_ve _bitsel_operator.exe.config
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\bin\Debug\mantilksal_ve _bitsel_operator.exe
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\bin\Debug\mantilksal_ve _bitsel_operator.pdb
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\obj\Debug\mantilksal_ve _bitsel_operator.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\obj\Debug\mantilksal_ve _bitsel_operator.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\obj\Debug\mantilksal_ve _bitsel_operator.exe
+C:\Users\muham\Desktop\C# ders\mantilksal_ve _bitsel_operator\obj\Debug\mantilksal_ve _bitsel_operator.pdb

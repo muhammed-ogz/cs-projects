@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\bin\Debug\Byte-sbyte-short kullani.exe.config
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\bin\Debug\Byte-sbyte-short kullani.exe
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\bin\Debug\Byte-sbyte-short kullani.pdb
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\obj\Debug\Byte-sbyte-short kullani.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\obj\Debug\Byte-sbyte-short kullani.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\obj\Debug\Byte-sbyte-short kullani.exe
+C:\Users\muham\Desktop\C# ders\Byte-sbyte-short kullani\Byte-sbyte-short kullani\obj\Debug\Byte-sbyte-short kullani.pdb

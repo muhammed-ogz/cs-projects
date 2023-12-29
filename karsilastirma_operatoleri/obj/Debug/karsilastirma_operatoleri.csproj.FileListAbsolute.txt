@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\bin\Debug\karsilastirma_operatoleri.exe.config
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\bin\Debug\karsilastirma_operatoleri.exe
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\bin\Debug\karsilastirma_operatoleri.pdb
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\obj\Debug\karsilastirma_operatoleri.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\obj\Debug\karsilastirma_operatoleri.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\obj\Debug\karsilastirma_operatoleri.exe
+C:\Users\muham\Desktop\C# ders\karsilastirma_operatoleri\obj\Debug\karsilastirma_operatoleri.pdb

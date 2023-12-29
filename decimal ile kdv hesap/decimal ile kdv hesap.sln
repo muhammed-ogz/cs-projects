@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decimal ile kdv hesap", "decimal ile kdv hesap\decimal ile kdv hesap.csproj", "{27F32CAD-3361-4F79-8525-6A3CE9A7E7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F32CAD-3361-4F79-8525-6A3CE9A7E7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F32CAD-3361-4F79-8525-6A3CE9A7E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F32CAD-3361-4F79-8525-6A3CE9A7E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F32CAD-3361-4F79-8525-6A3CE9A7E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4BF92E-E2DB-40FF-AA74-A10F2202BD9E}
+	EndGlobalSection
+EndGlobal
