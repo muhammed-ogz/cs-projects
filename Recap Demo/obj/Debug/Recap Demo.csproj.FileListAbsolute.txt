@@ -1,0 +1,10 @@
+C:\Users\muham\Desktop\cs-projects\Recap Demo\bin\Debug\Recap Demo.exe.config
+C:\Users\muham\Desktop\cs-projects\Recap Demo\bin\Debug\Recap Demo.exe
+C:\Users\muham\Desktop\cs-projects\Recap Demo\bin\Debug\Recap Demo.pdb
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap Demo.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap_Demo.Form1.resources
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap_Demo.Properties.Resources.resources
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap Demo.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap Demo.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap Demo.exe
+C:\Users\muham\Desktop\cs-projects\Recap Demo\obj\Debug\Recap Demo.pdb
