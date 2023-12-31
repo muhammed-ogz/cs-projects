@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projects\classlar\bin\Debug\classlar.exe.config
+C:\Users\muham\Desktop\cs-projects\classlar\bin\Debug\classlar.exe
+C:\Users\muham\Desktop\cs-projects\classlar\bin\Debug\classlar.pdb
+C:\Users\muham\Desktop\cs-projects\classlar\obj\Debug\classlar.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projects\classlar\obj\Debug\classlar.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projects\classlar\obj\Debug\classlar.exe
+C:\Users\muham\Desktop\cs-projects\classlar\obj\Debug\classlar.pdb
