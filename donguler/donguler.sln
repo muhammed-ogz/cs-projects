@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler", "donguler.csproj", "{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler", "donguler.csproj", "{53D1F6DF-88BB-4676-B6C2-523A198B69F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for-dongusu", "..\for-dongusu\for-dongusu.csproj", "{6B944F11-F8C9-4C1A-9D6B-E8E50BDA3998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-dongusu", "..\while-dongusu\while-dongusu.csproj", "{0588C24F-4AE6-4E7D-B8BB-D32447745DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-dongusu", "..\do-while-dongusu\do-while-dongusu.csproj", "{3F033CCC-49C9-465E-9666-1B9681E59E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for-each dongusu", "..\for-each dongusu\for-each dongusu.csproj", "{03DFE9E8-11CD-42DE-A545-02C89F6964BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asal-sayilar-ornek", "..\asal-sayilar-ornek\asal-sayilar-ornek.csproj", "{32066F65-C365-4511-B010-322B28E6623E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +21,35 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D1F6DF-88BB-4676-B6C2-523A198B69F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D1F6DF-88BB-4676-B6C2-523A198B69F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D1F6DF-88BB-4676-B6C2-523A198B69F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D1F6DF-88BB-4676-B6C2-523A198B69F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B944F11-F8C9-4C1A-9D6B-E8E50BDA3998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B944F11-F8C9-4C1A-9D6B-E8E50BDA3998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B944F11-F8C9-4C1A-9D6B-E8E50BDA3998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B944F11-F8C9-4C1A-9D6B-E8E50BDA3998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0588C24F-4AE6-4E7D-B8BB-D32447745DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0588C24F-4AE6-4E7D-B8BB-D32447745DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0588C24F-4AE6-4E7D-B8BB-D32447745DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0588C24F-4AE6-4E7D-B8BB-D32447745DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F033CCC-49C9-465E-9666-1B9681E59E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F033CCC-49C9-465E-9666-1B9681E59E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F033CCC-49C9-465E-9666-1B9681E59E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F033CCC-49C9-465E-9666-1B9681E59E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DFE9E8-11CD-42DE-A545-02C89F6964BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DFE9E8-11CD-42DE-A545-02C89F6964BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DFE9E8-11CD-42DE-A545-02C89F6964BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DFE9E8-11CD-42DE-A545-02C89F6964BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32066F65-C365-4511-B010-322B28E6623E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32066F65-C365-4511-B010-322B28E6623E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32066F65-C365-4511-B010-322B28E6623E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32066F65-C365-4511-B010-322B28E6623E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F6EAE245-B2C4-4604-BD2D-F6C6C2050607}
+		SolutionGuid = {24FA66FF-1E1E-4ADE-9BE8-C6C876F859A9}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\bin\Debug\for-each dongusu.exe.config
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\bin\Debug\for-each dongusu.exe
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\bin\Debug\for-each dongusu.pdb
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\obj\Debug\for-each dongusu.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\obj\Debug\for-each dongusu.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\obj\Debug\for-each dongusu.exe
+C:\Users\muham\Desktop\cs-projeler\for-each dongusu\obj\Debug\for-each dongusu.pdb

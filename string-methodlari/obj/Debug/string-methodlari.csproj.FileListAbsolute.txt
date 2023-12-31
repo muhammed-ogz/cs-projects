@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\bin\Debug\string-methodlari.exe.config
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\bin\Debug\string-methodlari.exe
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\bin\Debug\string-methodlari.pdb
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\obj\Debug\string-methodlari.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\obj\Debug\string-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\obj\Debug\string-methodlari.exe
+C:\Users\muham\Desktop\cs-projeler\string-methodlari\obj\Debug\string-methodlari.pdb

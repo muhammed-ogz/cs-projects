@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\bin\Debug\do-while-dongusu.exe.config
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\bin\Debug\do-while-dongusu.exe
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\bin\Debug\do-while-dongusu.pdb
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\obj\Debug\do-while-dongusu.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\obj\Debug\do-while-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\obj\Debug\do-while-dongusu.exe
+C:\Users\muham\Desktop\cs-projeler\do-while-dongusu\obj\Debug\do-while-dongusu.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22F3946C-7B6D-4EAB-9E5F-5FB28310B411}</ProjectGuid>
+    <ProjectGuid>{53D1F6DF-88BB-4676-B6C2-523A198B69F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>donguler</RootNamespace>
     <AssemblyName>donguler</AssemblyName>

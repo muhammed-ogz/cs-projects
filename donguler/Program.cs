@@ -10,6 +10,7 @@ namespace donguler
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bu projeler döngüler hakkında bilgi verir.");
         }
     }
 }

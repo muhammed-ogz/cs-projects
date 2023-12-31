@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\bin\Debug\asal-sayilar-ornek.exe.config
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\bin\Debug\asal-sayilar-ornek.exe
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\bin\Debug\asal-sayilar-ornek.pdb
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\obj\Debug\asal-sayilar-ornek.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\obj\Debug\asal-sayilar-ornek.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\obj\Debug\asal-sayilar-ornek.exe
+C:\Users\muham\Desktop\cs-projeler\asal-sayilar-ornek\obj\Debug\asal-sayilar-ornek.pdb

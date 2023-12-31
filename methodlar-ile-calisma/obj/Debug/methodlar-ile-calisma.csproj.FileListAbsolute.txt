@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\bin\Debug\methodlar-ile-calisma.exe.config
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\bin\Debug\methodlar-ile-calisma.exe
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\bin\Debug\methodlar-ile-calisma.pdb
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\obj\Debug\methodlar-ile-calisma.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\obj\Debug\methodlar-ile-calisma.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\obj\Debug\methodlar-ile-calisma.exe
+C:\Users\muham\Desktop\cs-projeler\methodlar-ile-calisma\obj\Debug\methodlar-ile-calisma.pdb
